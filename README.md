@@ -29,8 +29,8 @@
   - You can now visualize the output of the model in `rviz` 
 
 ## Jetson NX ROSBAG Demo
-In order tIf you don't have a camera, you can test the demo, by using this rosbag file: https://drive.google.com/file/d/14GfPFG4v82CsiTs9C0rkmPTvCin_3Y02/view?usp=sharing .
-You only need to replace the commands from T1 and T2:
+If you don't have a camera, you can test the demo, by using this rosbag file: https://drive.google.com/file/d/14GfPFG4v82CsiTs9C0rkmPTvCin_3Y02/view?usp=sharing .
+You only need to replace the commands from T1 and T2 (and of course skipping Terminal 4):
 - Terminal 1:
   - `roscore`
 - Terminal 2:
